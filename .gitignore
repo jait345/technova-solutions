@@ -1,0 +1,28 @@
+# Dependencias
+node_modules/
+target/
+*.jar
+*.war
+
+# Configuración
+*.properties
+.env
+*.key
+
+# Logs
+*.log
+logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Temporal
+temp/
+build/
+dist/
